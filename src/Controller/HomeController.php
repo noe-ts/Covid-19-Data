@@ -26,6 +26,7 @@ class HomeController extends AbstractController
     public function index(API $api, ChartBuilderInterface $chartBuilder): Response
     {
 
+        //array pour chartjs
         $label = [];
         $hospitalisation = [];
         $reanimation = [];
