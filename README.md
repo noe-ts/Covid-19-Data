@@ -1,4 +1,4 @@
 # Covid-19-Data
-Mini projet liant l'api CoronavirusAPI-France et Symfony UX.
+Project linking Symfony UX and Covid-19 Api.
 
-#Voir sur heroku : https://covidapi-symfonyux.herokuapp.com/
+#Heroku : https://covidapi-symfonyux.herokuapp.com/
